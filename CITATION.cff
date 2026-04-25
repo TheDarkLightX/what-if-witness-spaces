@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the Zenodo preprint."
+title: "What-If Witness Spaces: A Neuro-Symbolic Disaster Loop for Fail-Closed Software Hardening"
+type: report
+authors:
+  - family-names: Edwards
+    given-names: Dana
+    orcid: "https://orcid.org/0009-0001-1177-4752"
+version: "1.0"
+date-released: "2026-04-25"
+license: CC-BY-4.0
+doi: 10.5281/zenodo.19763921
+repository-code: "https://github.com/TheDarkLightX/what-if-witness-spaces"
+keywords:
+  - formal methods
+  - software assurance
+  - witness spaces
+  - neuro-symbolic reasoning
+  - symbolic checking
+  - fail-closed systems
+  - security engineering

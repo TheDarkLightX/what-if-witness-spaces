@@ -1,0 +1,37 @@
+{
+  "title": "What-If Witness Spaces: A Neuro-Symbolic Disaster Loop for Fail-Closed Software Hardening",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "Artifact-backed preprint and replication bundle for what-if witness spaces and neuro-symbolic disaster loops. DOI: 10.5281/zenodo.19763921.",
+  "creators": [
+    {
+      "name": "Edwards, Dana",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0001-1177-4752"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "formal methods",
+    "software assurance",
+    "witness spaces",
+    "symbolic checking",
+    "neuro-symbolic reasoning",
+    "fail-closed systems",
+    "security engineering",
+    "reproducible artifacts"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/TheDarkLightX/MPRD",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/TheDarkLightX/ZenoDEX",
+      "relation": "references",
+      "scheme": "url"
+    }
+  ],
+  "communities": []
+}
